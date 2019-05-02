@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+}
+
+main {
+	display: flex;
+	flex-direction: row;
+	margin: 10px;
+}
+article {
+	background-color: grey;
+	width: 100px;
+	height: 200px;
+	margin: 10px;
+}
