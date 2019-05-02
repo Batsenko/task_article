@@ -6,8 +6,10 @@ main {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
+	justify-content: center;
 	margin: 10px;
 }
+
 article {
 	background-color: grey;
 	width: 100px;
